@@ -1,5 +1,1 @@
-Welcome to my first project!
-
-Please contribute!
-
-Not quite a feature!
+Welcome to my first project. Please contribute if you can help with any of the outstanding bugs!
