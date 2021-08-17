@@ -1,5 +1,3 @@
 Welcome to my first project!
 
-Please contribute!
-
-Not quite a feature!
+Hello my name is Dan, I am a developer from the UK.
